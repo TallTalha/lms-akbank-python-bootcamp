@@ -1,0 +1,44 @@
+Harry Potter ve Felsefe Taşı,J.K. Rowling,1997,223
+Harry Potter ve Sırlar Odası,J.K. Rowling,1998,352
+Harry Potter ve Azkaban Tutsağı,J.K. Rowling,1999,435
+Harry Potter ve Ateş Kadehi,J.K. Rowling,2000,766
+Harry Potter ve Zümrüdüanka Yoldaşlığı,J.K. Rowling,2003,1107
+Harry Potter ve Melez Prens,J.K. Rowling,2005,607
+Harry Potter ve Ölüm Yadigarları,J.K. Rowling,2007,784
+Da Vinci Şifresi,Dan Brown,2003,480
+Melekler ve Şeytanlar,Dan Brown,2000,489
+Dijital Kale,Dan Brown,1998,384
+Kayıp Sembol,Dan Brown,2009,504
+Cehennem,Dan Brown,2013,464
+Simyacı,Paulo Coelho,1988,164
+Veronika Ölmek İstiyor,Paulo Coelho,1998,208
+On Bir Dakika,Paulo Coelho,2003,192
+Zahir,Paulo Coelho,2005,208
+Brida,Paulo Coelho,1990,224
+Alchemist,Paulo Coelho,1988,164
+Kite Runner,Khaled Hosseini,2003,336
+A Thousand Splendid Suns,Khaled Hosseini,2007,368
+And the Mountains Echoed,Khaled Hosseini,2013,384
+The Kite Runner,Khaled Hosseini,2003,336
+The Girl with the Dragon Tattoo,Stieg Larsson,2005,465
+The Girl on the Train,Paula Hawkins,2015,376
+Gone Girl,Gillian Flynn,2012,415
+The Girl in the Spider's Web,David Lagercrantz,2015,464
+The Girl with the Dragon Tattoo,Stieg Larsson,2005,465
+The Hunger Games,Suzanne Collins,2008,374
+Catching Fire,Suzanne Collins,2009,392
+Mockingjay,Suzanne Collins,2010,390
+The Hunger Games,Suzanne Collins,2008,374
+The Book Thief,Markus Zusak,2005,552
+The Fault in Our Stars,John Green,2012,312
+Paper Towns,John Green,2008,305
+Looking for Alaska,John Green,2005,216
+The Fault in Our Stars,John Green,2012,312
+Divergent,Veronica Roth,2011,488
+Insurgent,Veronica Roth,2012,544
+Allegiant,Veronica Roth,2013,528
+Divergent,Veronica Roth,2011,488
+The Maze Runner,James Dashner,2009,378
+The Scorch Trials,James Dashner,2010,366
+The Death Cure,James Dashner,2011,424
+The Maze Runner,James Dashner,2009,378
