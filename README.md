@@ -1,6 +1,6 @@
 # Kütüphane Yönetim Sistemi
 
-Bu proje, bir kütüphane yönetim sistemi geliştirmeyi amaçlar. Kullanıcılar, kütüphanede bulunan kitapları listeleyebilir, ekleyebilir, kaldırabilir, filtreleyebilir ve analiz edebilirler. Ayrıca, kayıtlı kullanıcılar kendi koleksiyonlarını oluşturabilir ve kişiselleştirilmiş öneriler alabilir.
+Bu proje, bir kütüphane yönetim sistemi geliştirmeyi amaçlar. Kullanıcılar, kütüphanede bulunan kitapları listeleyebilir, ekleyebilir, kaldırabilir, filtreleyebilir ve analiz edebilirler. Ayrıca, kayıtlı kullanıcılar kendi koleksiyonlarını oluşturabilir ve kişiselleştirilmiş öneriler alabilir. Proje kapsaımındaki'books.txt' dışında, 'user.txt' ve 'user_name_collection.txt' dosyalarını kullanarak kullanıcı işlevleri kazandırılmıştır.
 
 ## İşlevler
 Proje aşağıdaki temel işlevleri içerir:
