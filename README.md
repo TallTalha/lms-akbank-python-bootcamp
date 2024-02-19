@@ -1,6 +1,6 @@
 # Kütüphane Yönetim Sistemi
 
-Bu proje, bir kütüphane yönetim sistemi geliştirmeyi amaçlar. Kullanıcılar, kütüphanede bulunan kitapları listeleyebilir, ekleyebilir, kaldırabilir, filtreleyebilir ve analiz edebilirler. Ayrıca, kayıtlı kullanıcılar kendi koleksiyonalrını oluşturabilir ve kişiselleştirilmiş öneriler alabilir.
+Bu proje, bir kütüphane yönetim sistemi geliştirmeyi amaçlar. Kullanıcılar, kütüphanede bulunan kitapları listeleyebilir, ekleyebilir, kaldırabilir, filtreleyebilir ve analiz edebilirler. Ayrıca, kayıtlı kullanıcılar kendi koleksiyonlarını oluşturabilir ve kişiselleştirilmiş öneriler alabilir.
 
 ## İşlevler
 Proje aşağıdaki temel işlevleri içerir:
