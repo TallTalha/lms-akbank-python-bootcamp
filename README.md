@@ -44,6 +44,7 @@ Proje aşağıdaki temel işlevleri içerir:
 12) Suggest Personalized Book
 13) Logout
 q) Exit
+
 Enter your choice:
 
 
