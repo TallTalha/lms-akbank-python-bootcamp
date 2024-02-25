@@ -23,16 +23,21 @@ Proje aşağıdaki temel işlevleri içerir:
 *** MENU ***
 
 *** Main options ***
+
 1) List Books
 2) Add Book
 3) Remove Book
 4) Filter Books
 5) Analyze Books
 6) I'm Feeling Lucky
+
 *** Login and registration ***
+
 7) Register
 8) Login
+
 *** Special Options for Registered Users ***
+
 9) Add books to user's private collection
 10) Remove books from user's private collection
 11) List books in user's private collection
